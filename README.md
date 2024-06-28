@@ -12,11 +12,13 @@
 
 
 <br>
+
 - 🌱 I’m currently learning **MLOPs, Flask framework...**
 
 - 👯 I’m looking to collaborate on **Data Science related projects**
 
 - 💬 Ask me about **EDA, Machine Learning, Deep Learning ...**
+
 </br>
 
 <!-- - 📫 How to reach me **@gmail.com**-->
