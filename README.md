@@ -11,7 +11,7 @@
 <!-- <img align="right" alt="Coding" width="400" src="https://www.iihglobal.com/wp-content/uploads/2019/02/dcsad-1.gif"> -->
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=balaji-kartheek&label=Profile%20views&color=0e75b6&style=flat" alt="balaji-kartheek" /> </p>
+
 
 - 🌱 I’m currently learning **MLOPs, Flask framework...**
 
