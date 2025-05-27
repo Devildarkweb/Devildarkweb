@@ -13,7 +13,7 @@
 
 <br>
 
-- 🌱 I’m currently learning **MLOPs, Flask framework...**
+- 🌱 I’m currently learning **MLOPs**
 
 - 👯 I’m looking to collaborate on **Data Science related projects**
 
